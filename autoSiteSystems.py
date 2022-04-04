@@ -5,9 +5,11 @@ def firstHour():
     webbrowser.get("windows-default").open_new("https://earthobservatory.nasa.gov/")
     input()
 def secHour():
-    pass
+    ##open browser to website "pluto.tv"
+    webbrowser.get("windows-default").open_new("https://pluto.tv/")
 def thirdHour():
-    pass
+    ##open the website "pluto.tv" in the default browser
+    webbrowser.get("windows-default").open_new("https://pluto.tv/")
 def fourHour():
     webbrowser.get("windows-default").open_new("https://classroom.google.com/u/0")
     input()
